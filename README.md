@@ -1,6 +1,6 @@
 # convert-dashboad-ui
 
-
+> Fix lỗi dashboad
 ```jsx
   useEffect(() => {
     // Chart 1
